@@ -57,11 +57,11 @@ params:
     homeInfoParams:
         Title: "Hola \U0001F44B"
         Content: >
-            Bienvenidos a mi blog. Aquí vas a encontrar post relacionados con la programación y la gestión de equipos (iré subiendo contenido cuando me vea inspirado 😎).
+            Bienvenidos a mi blog. Aquí vas a encontrar post relacionados con la **programación** y la **gestión de equipos** (iré subiendo contenido cuando me vea inspirado 😎).
 
-            * Actualmente estoy trabajando como teach lead en [promofarma.com](https://promofarma.com)
+            * Teach lead en [promofarma.com](https://promofarma.com)
 
-            * Obsesionado con el trabajo en equipo y la continua entrega de valor 💪.
+            * Obsesionado con el trabajo en equipo y la continua entrega de valor.
 
     socialIcons:
         - name: github
