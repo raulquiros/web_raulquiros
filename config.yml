@@ -57,7 +57,7 @@ params:
     homeInfoParams:
         Title: "Hola \U0001F44B"
         Content: >
-            Bienvenidos a mi blog. Aquí vas a encontrar post relacionados con la **programación** y la **gestión de equipos** (iré subiendo contenido cuando me vea inspirado 😎).
+            Bienvenidos a mi blog.. Aquí vas a encontrar post relacionados con la **programación** y la **gestión de equipos** (iré subiendo contenido cuando me vea inspirado 😎).
 
             * Teach lead en [promofarma.com](https://promofarma.com)
 
@@ -75,7 +75,7 @@ params:
 
     analytics:
         google:
-            SiteVerificationTag: "XYZabc"
+            SiteVerificationTag: "G-FBNZ17BKT4"
         bing:
             SiteVerificationTag: "XYZabc"
         yandex:
