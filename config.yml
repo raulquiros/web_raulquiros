@@ -88,8 +88,8 @@ params:
 
     editPost:
         URL: "https://github.com/raulquiros/web_raulquiros/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+        Text: "Sugerir Cambios"
+        appendFilePath: true
 
     # for search
     # https://fusejs.io/api/options.html
