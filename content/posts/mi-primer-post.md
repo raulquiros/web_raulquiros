@@ -26,10 +26,10 @@ liar a programar nada, simplemente tienes ganas de escribir sobre algún tema.
 
 Me considero una persona muy metódica, con muchas ganas de aprender y sobre todo, muy inquieta.
 Actualmente estoy centrado en mejorar como gestor de equipos, que es mi posición actual dentro de la empresa
-la que me encuentro trabajando. 
+en la que me encuentro trabajando. 
 
 Disfruto mucho haciendo deporte, sobre todo practicando snowboard. 
-Aunque también me gusta viajar, describir otras culturas y desconectar por completo de mi día a día porque
+Aunque también me gusta viajar, descubrir otras culturas y desconectar por completo de mi día a día que
 por lo general, suele ser bastante intenso.
 
 ### En lo profesional
